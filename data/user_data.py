@@ -1,0 +1,1 @@
+file_path = '/Users/user/Desktop/test.png'
