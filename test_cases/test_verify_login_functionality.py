@@ -23,7 +23,7 @@ class Test_Login:
         self.login = Login(self.driver)
         self.base = Base(self.driver)
         self.login.do_login("piyush.alphabin12@gmail.com", "Piyush")
-        expected_result = "Invalid login credentials"
+        expected_result = "Invalid captcha response. Please try again."
         assert self.base.get_text(self.login.invalid_creds) == expected_result
 
     def test_03_verify_login_with_invalid_email(self,setup):
@@ -31,7 +31,7 @@ class Test_Login:
         self.login = Login(self.driver)
         self.base = Base(self.driver)
         self.login.do_login("piyush@gmail.com", "Piyush@123")
-        expected_result = "Invalid login credentials"
+        expected_result = "Invalid captcha response. Please try again."
         assert self.base.get_text(self.login.invalid_creds) == expected_result
 
     def test_04_verify_login_with_invalid_password(self,setup):
@@ -42,7 +42,7 @@ class Test_Login:
         expected_result = "Invalid login credentials"
         assert self.base.get_text(self.login.invalid_creds) == expected_result
 
-        
+
 
 
 
