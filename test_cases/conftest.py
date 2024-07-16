@@ -2,12 +2,9 @@ import pytest
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.firefox.options import Options
-
-
 from pages.base_page import Base
 from pages.home_page import All_pages
 from pages.login_page import Login
-
 
 def pytest_addoption(parser):
     parser.addoption("--browser", action='store', default='chrome')

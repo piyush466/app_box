@@ -2,9 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.support.select import Select
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-
 from Utilities.generate_log import LogGen
-
 
 class Base:
 
@@ -12,8 +10,6 @@ class Base:
     def __init__(self, driver):
         self.driver = driver
         self.wait = WebDriverWait(self.driver, 10)
-
-
 
     def do_click(self,by_locator):
         try:
@@ -51,7 +47,6 @@ class Base:
         except Exception as E:
             self.logs.error(f"Failed to get page title: {E}")
             raise
-
 
     def is_displayed(self, by_locator):
         try:

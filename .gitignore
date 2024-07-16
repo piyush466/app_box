@@ -1,0 +1,6 @@
+data
+.venv
+log_file
+logs.log
+Reports/assets
+requirement.txt

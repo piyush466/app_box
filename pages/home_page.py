@@ -25,8 +25,6 @@ class All_pages(Base):
     click_on_icon = (By.CSS_SELECTOR, "[class='avatar-initials ']")
     click_on_logout = (By.CSS_SELECTOR,'[data-testid="account-menu-logout"]')
 
-
-
     def upload_file(self,folder_name,new_email,drop_down):
         self.do_click(self.click_on_new)
         self.do_click(self.click_on_folder)
