@@ -142,3 +142,25 @@ Stacktrace:
 2024-07-16 16:43:25,426 - INFO - Retriveing the page Box | Login
 2024-07-16 16:43:25,426 - INFO - Assertion passed: Box | Login == Box | Login
 2024-07-16 16:43:25,426 - INFO - Assertion passed: Box | Login == Box | Login
+2024-07-16 17:36:59,596 - INFO - ****test_05_verify_user_can_do_logout****
+2024-07-16 17:36:59,596 - INFO - ****test_05_verify_user_can_do_logout****
+2024-07-16 17:36:59,669 - INFO - Sent keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email')
+2024-07-16 17:36:59,669 - INFO - Sent keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email')
+2024-07-16 17:37:00,190 - INFO - Clicked on element located by ('id', 'login-submit')
+2024-07-16 17:37:00,190 - INFO - Clicked on element located by ('id', 'login-submit')
+2024-07-16 17:37:00,222 - INFO - Sent keys 'Piyush@123' to element located by ('id', 'password-login')
+2024-07-16 17:37:00,222 - INFO - Sent keys 'Piyush@123' to element located by ('id', 'password-login')
+2024-07-16 17:37:02,368 - INFO - Clicked on element located by ('id', 'login-submit-password')
+2024-07-16 17:37:02,368 - INFO - Clicked on element located by ('id', 'login-submit-password')
+2024-07-16 17:37:04,625 - INFO - Retriveing the page All Files | Powered by Box
+2024-07-16 17:37:04,625 - INFO - Retriveing the page All Files | Powered by Box
+2024-07-16 17:37:04,626 - INFO - Assertion passed: All Files | Powered by Box == All Files | Powered by Box
+2024-07-16 17:37:04,626 - INFO - Assertion passed: All Files | Powered by Box == All Files | Powered by Box
+2024-07-16 17:37:04,673 - INFO - Clicked on element located by ('css selector', "[class='avatar-initials ']")
+2024-07-16 17:37:04,673 - INFO - Clicked on element located by ('css selector', "[class='avatar-initials ']")
+2024-07-16 17:37:06,988 - INFO - Clicked on element located by ('css selector', '[data-testid="account-menu-logout"]')
+2024-07-16 17:37:06,988 - INFO - Clicked on element located by ('css selector', '[data-testid="account-menu-logout"]')
+2024-07-16 17:37:06,993 - INFO - Retriveing the page Box | Login
+2024-07-16 17:37:06,993 - INFO - Retriveing the page Box | Login
+2024-07-16 17:37:06,994 - INFO - Assertion passed: Box | Login == Box | Login
+2024-07-16 17:37:06,994 - INFO - Assertion passed: Box | Login == Box | Login

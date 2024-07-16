@@ -34,4 +34,3 @@ def setup(request):
     request.cls.all_page = All_pages(driver)
     yield driver
     driver.quit()
-    print("test")
