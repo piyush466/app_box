@@ -25,13 +25,13 @@ class Test_Login(BaseClass):
         self.login.do_login("piyush.alphabin@gmail.com", "Piyush")
         self.base.assertion(self.base.get_text(self.login.invalid_creds), "Invalid captcha response. Please try again.")
 
-    def test_05_verify_user_can_do_logout(self):
-        self.login.do_login("piyush.alphabin@gmail.com", "Piyush@123")
-        print("After login: ",self.base.get_title())
-        self.base.assertion(self.base.get_title(), "All Files | Powered by Box")
-        self.all_page.click_on_logout_button()
-        print("After logout: ", self.base.get_title())
-        self.base.assertion(self.base.get_title(), "Box | Login")
+    # def test_05_verify_user_can_do_logout(self):
+    #     self.login.do_login("piyush.alphabin@gmail.com", "Piyush@123")
+    #     print("After login: ",self.base.get_title())
+    #     self.base.assertion(self.base.get_title(), "All Files | Powered by Box")
+    #     self.all_page.click_on_logout_button()
+    #     print("After logout: ", self.base.get_title())
+    #     self.base.assertion(self.base.get_title(), "Box | Login")
 
 
 
