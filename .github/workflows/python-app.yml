@@ -22,6 +22,8 @@ jobs:
       uses: actions/setup-python@v3
       with:
         python-version: "3.11"
+
+
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
@@ -29,7 +31,7 @@ jobs:
 
       
     - name: Run PyTest
-      run: pytest --html=./pytest-report/report.html
+      run: pytest
 
     - name: Upload test artifacts
       uses: actions/upload-artifact@v2
