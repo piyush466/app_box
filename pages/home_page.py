@@ -22,6 +22,9 @@ class All_pages(Base):
     remove_folder = (By.CSS_SELECTOR, "[class='menu-item TrashMenuItem']")
     click_on_remove_ok_btn = (By.XPATH, "//span[text()='Okay']")
     after_remove_folder_pop_up = (By.XPATH, "//div[@class='notification info wrap']/span")
+    click_on_icon = (By.CSS_SELECTOR, "[class='avatar-initials ']")
+    click_on_logout = (By.CSS_SELECTOR,'[data-testid="account-menu-logout"]')
+
 
 
     def upload_file(self,folder_name,new_email,drop_down):
@@ -44,5 +47,10 @@ class All_pages(Base):
         # self.driver.find_element(self.click_on_remove_ok_btn).click()
         self.do_click(self.click_on_remove_ok_btn)
         time.sleep(3)
+
+    def click_on_logout_button(self):
+        self.do_click(self.click_on_icon)
+        self.do_click(self.click_on_logout)
+
 
 
