@@ -1,6 +1,8 @@
 import pytest
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.firefox.options import Options
+
 
 from pages.base_page import Base
 from pages.home_page import All_pages
@@ -15,15 +17,17 @@ def setup(request):
     browser = request.config.getoption('--browser')
     option = Options()
     option.add_argument("--incognito")
-    # option.add_argument("--headless")
+    option.add_argument("--headless")
     if browser == 'chrome':
-        driver = webdriver.Chrome()
+        driver = webdriver.Chrome(options=option)
     elif browser == 'firefox':
-        driver = webdriver.Firefox()
+        option = Options()
+        option.add_argument("--headless")
+        driver = webdriver.Firefox(options=option)
     elif browser == "safari":
         driver = webdriver.Safari()
     else:
-        driver = webdriver.Chrome()
+        driver = webdriver.Chrome(options=option)
 
     driver.get("https://account.box.com/login")
     driver.maximize_window()
