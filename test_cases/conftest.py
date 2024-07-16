@@ -6,12 +6,25 @@ from pages.base_page import Base
 from pages.home_page import All_pages
 from pages.login_page import Login
 
+
+def pytest_addoption(parser):
+    parser.addoption("--browser", action='store', default='chrome')
+
 @pytest.fixture
 def setup(request):
+    browser = request.config.getoption('--browser')
     option = Options()
     option.add_argument("--incognito")
     # option.add_argument("--headless")
-    driver = webdriver.Chrome(options=option)
+    if browser == 'chrome':
+        driver = webdriver.Chrome()
+    elif browser == 'firefox':
+        driver = webdriver.Firefox()
+    elif browser == "safari":
+        driver = webdriver.Safari()
+    else:
+        driver = webdriver.Chrome()
+
     driver.get("https://account.box.com/login")
     driver.maximize_window()
     driver.implicitly_wait(10)

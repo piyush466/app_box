@@ -1,0 +1,37 @@
+2024-07-16 15:23:19,666 - INFO - Sent keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email')
+2024-07-16 15:23:20,307 - INFO - Clicked on element located by ('id', 'login-submit')
+2024-07-16 15:23:20,328 - INFO - Sent keys 'Piyush@123' to element located by ('id', 'password-login')
+2024-07-16 15:23:21,301 - INFO - Clicked on element located by ('id', 'login-submit-password')
+2024-07-16 15:23:23,302 - INFO - Retriveing the page Box | Login
+2024-07-16 15:23:23,302 - ERROR - Assertion failed: Box | Login == All Files | Powered by Box
+2024-07-16 15:23:27,259 - INFO - Sent keys 'piyush.alphabin12@gmail.com' to element located by ('id', 'login-email')
+2024-07-16 15:23:27,878 - INFO - Clicked on element located by ('id', 'login-submit')
+2024-07-16 15:23:27,899 - INFO - Sent keys 'Piyush' to element located by ('id', 'password-login')
+2024-07-16 15:23:28,687 - INFO - Clicked on element located by ('id', 'login-submit-password')
+2024-07-16 15:23:30,704 - INFO - Retrieved text 'Invalid captcha response. Please try again.' from element located by ('css selector', "[class='form-error']")
+2024-07-16 15:23:30,704 - INFO - Assertion passed: Invalid captcha response. Please try again. == Invalid captcha response. Please try again.
+2024-07-16 15:23:34,471 - INFO - Sent keys 'piyush@gmail.com' to element located by ('id', 'login-email')
+2024-07-16 15:23:35,061 - INFO - Clicked on element located by ('id', 'login-submit')
+2024-07-16 15:23:35,082 - INFO - Sent keys 'Piyush@123' to element located by ('id', 'password-login')
+2024-07-16 15:23:38,407 - INFO - Clicked on element located by ('id', 'login-submit-password')
+2024-07-16 15:23:40,425 - INFO - Retrieved text 'Invalid captcha response. Please try again.' from element located by ('css selector', "[class='form-error']")
+2024-07-16 15:23:40,425 - INFO - Assertion passed: Invalid captcha response. Please try again. == Invalid captcha response. Please try again.
+2024-07-16 15:23:44,236 - INFO - Sent keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email')
+2024-07-16 15:23:44,826 - INFO - Clicked on element located by ('id', 'login-submit')
+2024-07-16 15:23:44,845 - INFO - Sent keys 'Piyush' to element located by ('id', 'password-login')
+2024-07-16 15:23:45,734 - INFO - Clicked on element located by ('id', 'login-submit-password')
+2024-07-16 15:23:47,749 - INFO - Retrieved text 'Invalid captcha response. Please try again.' from element located by ('css selector', "[class='form-error']")
+2024-07-16 15:23:47,749 - INFO - Assertion passed: Invalid captcha response. Please try again. == Invalid captcha response. Please try again.
+2024-07-16 15:23:51,338 - INFO - Sent keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email')
+2024-07-16 15:23:52,088 - INFO - Clicked on element located by ('id', 'login-submit')
+2024-07-16 15:23:52,111 - INFO - Sent keys 'Piyush@123' to element located by ('id', 'password-login')
+2024-07-16 15:23:52,976 - INFO - Clicked on element located by ('id', 'login-submit-password')
+2024-07-16 15:23:54,982 - INFO - Retriveing the page Box | Login
+2024-07-16 15:23:54,982 - ERROR - Assertion failed: Box | Login == All Files | Powered by Box
+2024-07-16 15:24:05,499 - ERROR - Failed to click on element located by ('css selector', "[class='avatar-initials ']"): Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+

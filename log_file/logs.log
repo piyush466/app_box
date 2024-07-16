@@ -1,2 +1,8 @@
 2024-07-16 15:00:46,887 - INFO - Clicked on element located by ('id', 'login-submit')
 2024-07-16 15:00:50,889 - INFO - Clicked on element located by ('id', 'login-submit-password')
+2024-07-16 15:15:20,881 - INFO - Sent keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email')
+2024-07-16 15:15:21,390 - INFO - Clicked on element located by ('id', 'login-submit')
+2024-07-16 15:15:21,424 - INFO - Sent keys 'Piyush@123' to element located by ('id', 'password-login')
+2024-07-16 15:15:23,550 - INFO - Clicked on element located by ('id', 'login-submit-password')
+2024-07-16 15:15:25,559 - INFO - Retriveing the page All Files | Powered by Box
+2024-07-16 15:15:25,559 - INFO - Assertion passed: All Files | Powered by Box == All Files | Powered by Box
