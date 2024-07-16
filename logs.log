@@ -35,3 +35,399 @@ WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
 NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
 dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
 
+2024-07-16 16:25:13,561 - INFO - Sent keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email')
+2024-07-16 16:25:13,561 - INFO - Sent keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email')
+2024-07-16 16:25:13,586 - INFO - Sent keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email')
+2024-07-16 16:25:13,586 - INFO - Sent keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email')
+2024-07-16 16:25:13,753 - INFO - Sent keys 'piyush@gmail.com' to element located by ('id', 'login-email')
+2024-07-16 16:25:13,753 - INFO - Sent keys 'piyush@gmail.com' to element located by ('id', 'login-email')
+2024-07-16 16:25:13,794 - INFO - Sent keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email')
+2024-07-16 16:25:13,794 - INFO - Sent keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email')
+2024-07-16 16:25:14,011 - INFO - Sent keys 'piyush.alphabin12@gmail.com' to element located by ('id', 'login-email')
+2024-07-16 16:25:14,011 - INFO - Sent keys 'piyush.alphabin12@gmail.com' to element located by ('id', 'login-email')
+2024-07-16 16:25:14,399 - INFO - Clicked on element located by ('id', 'login-submit')
+2024-07-16 16:25:14,399 - INFO - Clicked on element located by ('id', 'login-submit')
+2024-07-16 16:25:14,414 - INFO - Clicked on element located by ('id', 'login-submit')
+2024-07-16 16:25:14,414 - INFO - Clicked on element located by ('id', 'login-submit')
+2024-07-16 16:25:14,569 - INFO - Sent keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email')
+2024-07-16 16:25:14,569 - INFO - Sent keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email')
+2024-07-16 16:25:14,581 - INFO - Clicked on element located by ('id', 'login-submit')
+2024-07-16 16:25:14,581 - INFO - Clicked on element located by ('id', 'login-submit')
+2024-07-16 16:25:14,595 - INFO - Sent keys 'Piyush' to element located by ('id', 'password-login')
+2024-07-16 16:25:14,595 - INFO - Sent keys 'Piyush' to element located by ('id', 'password-login')
+2024-07-16 16:25:14,604 - INFO - Sent keys 'Piyush@123' to element located by ('id', 'password-login')
+2024-07-16 16:25:14,604 - INFO - Sent keys 'Piyush@123' to element located by ('id', 'password-login')
+2024-07-16 16:25:14,604 - INFO - Clicked on element located by ('id', 'login-submit')
+2024-07-16 16:25:14,604 - INFO - Clicked on element located by ('id', 'login-submit')
+2024-07-16 16:25:14,705 - INFO - Sent keys 'Piyush@123' to element located by ('id', 'password-login')
+2024-07-16 16:25:14,705 - INFO - Sent keys 'Piyush@123' to element located by ('id', 'password-login')
+2024-07-16 16:25:14,767 - INFO - Sent keys 'Piyush@123' to element located by ('id', 'password-login')
+2024-07-16 16:25:14,767 - INFO - Sent keys 'Piyush@123' to element located by ('id', 'password-login')
+2024-07-16 16:25:14,771 - INFO - Sent keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email')
+2024-07-16 16:25:14,771 - INFO - Sent keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email')
+2024-07-16 16:25:14,996 - INFO - Clicked on element located by ('id', 'login-submit')
+2024-07-16 16:25:14,996 - INFO - Clicked on element located by ('id', 'login-submit')
+2024-07-16 16:25:15,077 - INFO - Sent keys 'Piyush' to element located by ('id', 'password-login')
+2024-07-16 16:25:15,077 - INFO - Sent keys 'Piyush' to element located by ('id', 'password-login')
+2024-07-16 16:25:15,369 - INFO - Clicked on element located by ('id', 'login-submit-password')
+2024-07-16 16:25:15,369 - INFO - Clicked on element located by ('id', 'login-submit-password')
+2024-07-16 16:25:15,651 - INFO - Clicked on element located by ('id', 'login-submit')
+2024-07-16 16:25:15,651 - INFO - Clicked on element located by ('id', 'login-submit')
+2024-07-16 16:25:15,705 - INFO - Clicked on element located by ('id', 'login-submit-password')
+2024-07-16 16:25:15,705 - INFO - Clicked on element located by ('id', 'login-submit-password')
+2024-07-16 16:25:15,736 - INFO - Clicked on element located by ('id', 'login-submit-password')
+2024-07-16 16:25:15,736 - INFO - Clicked on element located by ('id', 'login-submit-password')
+2024-07-16 16:25:16,143 - INFO - Sent keys 'Piyush@123' to element located by ('id', 'password-login')
+2024-07-16 16:25:16,143 - INFO - Sent keys 'Piyush@123' to element located by ('id', 'password-login')
+2024-07-16 16:25:16,219 - INFO - Clicked on element located by ('id', 'login-submit')
+2024-07-16 16:25:16,219 - INFO - Clicked on element located by ('id', 'login-submit')
+2024-07-16 16:25:16,666 - INFO - Sent keys 'Piyush@123' to element located by ('id', 'password-login')
+2024-07-16 16:25:16,666 - INFO - Sent keys 'Piyush@123' to element located by ('id', 'password-login')
+2024-07-16 16:25:17,161 - INFO - Clicked on element located by ('id', 'login-submit-password')
+2024-07-16 16:25:17,161 - INFO - Clicked on element located by ('id', 'login-submit-password')
+2024-07-16 16:25:17,405 - INFO - Retrieved text 'Invalid Login Credentials' from element located by ('css selector', "[class='form-error']")
+2024-07-16 16:25:17,405 - INFO - Retrieved text 'Invalid Login Credentials' from element located by ('css selector', "[class='form-error']")
+2024-07-16 16:25:17,405 - ERROR - Assertion failed: Invalid Login Credentials == Invalid captcha response. Please try again.
+2024-07-16 16:25:17,405 - ERROR - Assertion failed: Invalid Login Credentials == Invalid captcha response. Please try again.
+2024-07-16 16:25:17,740 - INFO - Retrieved text 'Invalid Login Credentials' from element located by ('css selector', "[class='form-error']")
+2024-07-16 16:25:17,740 - INFO - Retrieved text 'Invalid Login Credentials' from element located by ('css selector', "[class='form-error']")
+2024-07-16 16:25:17,741 - ERROR - Assertion failed: Invalid Login Credentials == Invalid captcha response. Please try again.
+2024-07-16 16:25:17,741 - ERROR - Assertion failed: Invalid Login Credentials == Invalid captcha response. Please try again.
+2024-07-16 16:25:17,741 - INFO - Retriveing the page Box | Login
+2024-07-16 16:25:17,741 - INFO - Retriveing the page Box | Login
+2024-07-16 16:25:17,741 - ERROR - Assertion failed: Box | Login == All Files | Powered by Box
+2024-07-16 16:25:17,741 - ERROR - Assertion failed: Box | Login == All Files | Powered by Box
+2024-07-16 16:25:18,205 - INFO - Clicked on element located by ('id', 'login-submit-password')
+2024-07-16 16:25:18,205 - INFO - Clicked on element located by ('id', 'login-submit-password')
+2024-07-16 16:25:18,213 - INFO - Clicked on element located by ('id', 'login-submit-password')
+2024-07-16 16:25:18,213 - INFO - Clicked on element located by ('id', 'login-submit-password')
+2024-07-16 16:25:19,194 - INFO - Retrieved text 'Invalid captcha response. Please try again.' from element located by ('css selector', "[class='form-error']")
+2024-07-16 16:25:19,194 - INFO - Retrieved text 'Invalid captcha response. Please try again.' from element located by ('css selector', "[class='form-error']")
+2024-07-16 16:25:19,194 - INFO - Assertion passed: Invalid captcha response. Please try again. == Invalid captcha response. Please try again.
+2024-07-16 16:25:19,194 - INFO - Assertion passed: Invalid captcha response. Please try again. == Invalid captcha response. Please try again.
+2024-07-16 16:25:19,739 - INFO - Clicked on element located by ('id', 'login-submit-password')
+2024-07-16 16:25:19,739 - INFO - Clicked on element located by ('id', 'login-submit-password')
+2024-07-16 16:25:21,964 - INFO - Clicked on element located by ('css selector', "[class='UnifiedNewDropdownMenuToggleButton-label']")
+2024-07-16 16:25:21,964 - INFO - Clicked on element located by ('css selector', "[class='UnifiedNewDropdownMenuToggleButton-label']")
+2024-07-16 16:25:30,725 - ERROR - Failed to click on element located by ('css selector', "[class='UnifiedNewDropdownMenuToggleButton-label']"): Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-16 16:25:30,725 - ERROR - Failed to click on element located by ('css selector', "[class='UnifiedNewDropdownMenuToggleButton-label']"): Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-16 16:25:30,732 - ERROR - Failed to click on element located by ('css selector', "[class='UnifiedNewDropdownMenuToggleButton-label']"): Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-16 16:25:30,732 - ERROR - Failed to click on element located by ('css selector', "[class='UnifiedNewDropdownMenuToggleButton-label']"): Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-16 16:25:32,488 - ERROR - Failed to click on element located by ('xpath', "//span[text()='Folder']"): Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-16 16:25:32,488 - ERROR - Failed to click on element located by ('xpath', "//span[text()='Folder']"): Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-16 16:25:35,185 - INFO - ****test_05_verify_user_can_do_logout****
+2024-07-16 16:25:35,185 - INFO - ****test_05_verify_user_can_do_logout****
+2024-07-16 16:25:35,217 - INFO - Sent keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email')
+2024-07-16 16:25:35,217 - INFO - Sent keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email')
+2024-07-16 16:25:35,795 - INFO - Clicked on element located by ('id', 'login-submit')
+2024-07-16 16:25:35,795 - INFO - Clicked on element located by ('id', 'login-submit')
+2024-07-16 16:25:35,822 - INFO - Sent keys 'Piyush@123' to element located by ('id', 'password-login')
+2024-07-16 16:25:35,822 - INFO - Sent keys 'Piyush@123' to element located by ('id', 'password-login')
+2024-07-16 16:25:36,702 - INFO - Clicked on element located by ('id', 'login-submit-password')
+2024-07-16 16:25:36,702 - INFO - Clicked on element located by ('id', 'login-submit-password')
+2024-07-16 16:25:38,708 - INFO - Retriveing the page Box | Login
+2024-07-16 16:25:38,708 - INFO - Retriveing the page Box | Login
+2024-07-16 16:25:38,710 - INFO - Retriveing the page Box | Login
+2024-07-16 16:25:38,710 - INFO - Retriveing the page Box | Login
+2024-07-16 16:25:38,710 - ERROR - Assertion failed: Box | Login == All Files | Powered by Box
+2024-07-16 16:25:38,710 - ERROR - Assertion failed: Box | Login == All Files | Powered by Box
+2024-07-16 16:25:49,220 - ERROR - Failed to click on element located by ('css selector', "[class='avatar-initials ']"): Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-16 16:25:49,220 - ERROR - Failed to click on element located by ('css selector', "[class='avatar-initials ']"): Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-16 16:35:48,068 - INFO - ****test_05_verify_user_can_do_logout****
+2024-07-16 16:35:48,068 - INFO - ****test_05_verify_user_can_do_logout****
+2024-07-16 16:35:48,092 - ERROR - Failed to send keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email'): Message: 
+
+2024-07-16 16:35:48,092 - ERROR - Failed to send keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email'): Message: 
+
+2024-07-16 16:36:11,309 - INFO - ****test_05_verify_user_can_do_logout****
+2024-07-16 16:36:11,309 - INFO - ****test_05_verify_user_can_do_logout****
+2024-07-16 16:36:11,327 - ERROR - Failed to send keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email'): Message: 
+
+2024-07-16 16:36:11,327 - ERROR - Failed to send keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email'): Message: 
+
+2024-07-16 16:36:37,772 - ERROR - Failed to send keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email'): Message: 
+
+2024-07-16 16:36:37,772 - ERROR - Failed to send keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email'): Message: 
+
+2024-07-16 16:36:40,375 - ERROR - Failed to send keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email'): Message: 
+
+2024-07-16 16:36:40,375 - ERROR - Failed to send keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email'): Message: 
+
+2024-07-16 16:36:40,636 - ERROR - Failed to send keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email'): Message: 
+
+2024-07-16 16:36:40,636 - ERROR - Failed to send keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email'): Message: 
+
+2024-07-16 16:36:40,636 - ERROR - Failed to send keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email'): Message: 
+
+2024-07-16 16:36:40,636 - ERROR - Failed to send keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email'): Message: 
+
+2024-07-16 16:36:40,637 - ERROR - Failed to send keys 'piyush@gmail.com' to element located by ('id', 'login-email'): Message: 
+
+2024-07-16 16:36:40,637 - ERROR - Failed to send keys 'piyush@gmail.com' to element located by ('id', 'login-email'): Message: 
+
+2024-07-16 16:36:40,651 - ERROR - Failed to send keys 'piyush.alphabin12@gmail.com' to element located by ('id', 'login-email'): Message: 
+
+2024-07-16 16:36:40,651 - ERROR - Failed to send keys 'piyush.alphabin12@gmail.com' to element located by ('id', 'login-email'): Message: 
+
+2024-07-16 16:36:41,254 - ERROR - Failed to send keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email'): Message: 
+
+2024-07-16 16:36:41,254 - ERROR - Failed to send keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email'): Message: 
+
+2024-07-16 16:38:06,274 - ERROR - Failed to send keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email'): Message: 
+
+2024-07-16 16:38:06,274 - ERROR - Failed to send keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email'): Message: 
+
+2024-07-16 16:38:06,280 - ERROR - Failed to send keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email'): Message: 
+
+2024-07-16 16:38:06,280 - ERROR - Failed to send keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email'): Message: 
+
+2024-07-16 16:38:06,280 - ERROR - Failed to send keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email'): Message: 
+
+2024-07-16 16:38:06,280 - ERROR - Failed to send keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email'): Message: 
+
+2024-07-16 16:38:06,291 - ERROR - Failed to send keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email'): Message: 
+
+2024-07-16 16:38:06,291 - ERROR - Failed to send keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email'): Message: 
+
+2024-07-16 16:38:06,293 - ERROR - Failed to send keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email'): Message: 
+
+2024-07-16 16:38:06,293 - ERROR - Failed to send keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email'): Message: 
+
+2024-07-16 16:38:06,299 - ERROR - Failed to send keys 'piyush@gmail.com' to element located by ('id', 'login-email'): Message: 
+
+2024-07-16 16:38:06,299 - ERROR - Failed to send keys 'piyush@gmail.com' to element located by ('id', 'login-email'): Message: 
+
+2024-07-16 16:38:06,301 - ERROR - Failed to send keys 'piyush.alphabin12@gmail.com' to element located by ('id', 'login-email'): Message: 
+
+2024-07-16 16:38:06,301 - ERROR - Failed to send keys 'piyush.alphabin12@gmail.com' to element located by ('id', 'login-email'): Message: 
+
+2024-07-16 16:38:08,971 - INFO - ****test_05_verify_user_can_do_logout****
+2024-07-16 16:38:08,971 - INFO - ****test_05_verify_user_can_do_logout****
+2024-07-16 16:38:08,986 - ERROR - Failed to send keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email'): Message: 
+
+2024-07-16 16:38:08,986 - ERROR - Failed to send keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email'): Message: 
+
+2024-07-16 16:40:25,359 - ERROR - Failed to send keys 'piyush@gmail.com' to element located by ('id', 'login-email'): Message: 
+
+2024-07-16 16:40:25,359 - ERROR - Failed to send keys 'piyush@gmail.com' to element located by ('id', 'login-email'): Message: 
+
+2024-07-16 16:40:25,992 - ERROR - Failed to send keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email'): Message: 
+
+2024-07-16 16:40:25,992 - ERROR - Failed to send keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email'): Message: 
+
+2024-07-16 16:40:25,994 - ERROR - Failed to send keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email'): Message: 
+
+2024-07-16 16:40:25,994 - ERROR - Failed to send keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email'): Message: 
+
+2024-07-16 16:40:26,053 - ERROR - Failed to send keys 'piyush.alphabin12@gmail.com' to element located by ('id', 'login-email'): Message: 
+
+2024-07-16 16:40:26,057 - ERROR - Failed to send keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email'): Message: 
+
+2024-07-16 16:40:26,053 - ERROR - Failed to send keys 'piyush.alphabin12@gmail.com' to element located by ('id', 'login-email'): Message: 
+
+2024-07-16 16:40:26,057 - ERROR - Failed to send keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email'): Message: 
+
+2024-07-16 16:40:26,057 - ERROR - Failed to send keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email'): Message: 
+
+2024-07-16 16:40:26,057 - ERROR - Failed to send keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email'): Message: 
+
+2024-07-16 16:40:26,058 - ERROR - Failed to send keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email'): Message: 
+
+2024-07-16 16:40:26,058 - ERROR - Failed to send keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email'): Message: 
+
+2024-07-16 16:40:31,758 - INFO - ****test_05_verify_user_can_do_logout****
+2024-07-16 16:40:31,758 - INFO - ****test_05_verify_user_can_do_logout****
+2024-07-16 16:40:31,777 - ERROR - Failed to send keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email'): Message: 
+
+2024-07-16 16:40:31,777 - ERROR - Failed to send keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email'): Message: 
+
+2024-07-16 16:46:15,496 - INFO - Sent keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email')
+2024-07-16 16:46:15,496 - INFO - Sent keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email')
+2024-07-16 16:46:16,293 - INFO - Clicked on element located by ('id', 'login-submit')
+2024-07-16 16:46:16,293 - INFO - Clicked on element located by ('id', 'login-submit')
+2024-07-16 16:46:16,342 - INFO - Sent keys 'piyush@gmail.com' to element located by ('id', 'login-email')
+2024-07-16 16:46:16,342 - INFO - Sent keys 'piyush@gmail.com' to element located by ('id', 'login-email')
+2024-07-16 16:46:16,475 - INFO - Sent keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email')
+2024-07-16 16:46:16,475 - INFO - Sent keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email')
+2024-07-16 16:46:16,494 - INFO - Sent keys 'Piyush' to element located by ('id', 'password-login')
+2024-07-16 16:46:16,494 - INFO - Sent keys 'Piyush' to element located by ('id', 'password-login')
+2024-07-16 16:46:16,695 - INFO - Sent keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email')
+2024-07-16 16:46:16,696 - INFO - Sent keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email')
+2024-07-16 16:46:16,695 - INFO - Sent keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email')
+2024-07-16 16:46:16,696 - INFO - Sent keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email')
+2024-07-16 16:46:16,715 - INFO - Sent keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email')
+2024-07-16 16:46:16,715 - INFO - Sent keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email')
+2024-07-16 16:46:16,775 - INFO - Sent keys 'piyush.alphabin12@gmail.com' to element located by ('id', 'login-email')
+2024-07-16 16:46:16,775 - INFO - Sent keys 'piyush.alphabin12@gmail.com' to element located by ('id', 'login-email')
+2024-07-16 16:46:17,060 - INFO - Clicked on element located by ('id', 'login-submit')
+2024-07-16 16:46:17,060 - INFO - Clicked on element located by ('id', 'login-submit')
+2024-07-16 16:46:17,244 - INFO - Clicked on element located by ('id', 'login-submit')
+2024-07-16 16:46:17,244 - INFO - Clicked on element located by ('id', 'login-submit')
+2024-07-16 16:46:17,299 - INFO - Sent keys 'Piyush@123' to element located by ('id', 'password-login')
+2024-07-16 16:46:17,299 - INFO - Sent keys 'Piyush@123' to element located by ('id', 'password-login')
+2024-07-16 16:46:17,325 - INFO - Sent keys 'Piyush@123' to element located by ('id', 'password-login')
+2024-07-16 16:46:17,325 - INFO - Sent keys 'Piyush@123' to element located by ('id', 'password-login')
+2024-07-16 16:46:17,590 - INFO - Clicked on element located by ('id', 'login-submit-password')
+2024-07-16 16:46:17,590 - INFO - Clicked on element located by ('id', 'login-submit-password')
+2024-07-16 16:46:17,712 - INFO - Clicked on element located by ('id', 'login-submit')
+2024-07-16 16:46:17,712 - INFO - Clicked on element located by ('id', 'login-submit')
+2024-07-16 16:46:17,977 - INFO - Clicked on element located by ('id', 'login-submit')
+2024-07-16 16:46:17,977 - INFO - Clicked on element located by ('id', 'login-submit')
+2024-07-16 16:46:18,133 - INFO - Clicked on element located by ('id', 'login-submit')
+2024-07-16 16:46:18,133 - INFO - Clicked on element located by ('id', 'login-submit')
+2024-07-16 16:46:18,196 - INFO - Sent keys 'Piyush@123' to element located by ('id', 'password-login')
+2024-07-16 16:46:18,196 - INFO - Sent keys 'Piyush@123' to element located by ('id', 'password-login')
+2024-07-16 16:46:18,495 - INFO - Clicked on element located by ('id', 'login-submit-password')
+2024-07-16 16:46:18,495 - INFO - Clicked on element located by ('id', 'login-submit-password')
+2024-07-16 16:46:18,565 - INFO - Sent keys 'Piyush@123' to element located by ('id', 'password-login')
+2024-07-16 16:46:18,565 - INFO - Sent keys 'Piyush@123' to element located by ('id', 'password-login')
+2024-07-16 16:46:18,634 - INFO - Sent keys 'Piyush' to element located by ('id', 'password-login')
+2024-07-16 16:46:18,634 - INFO - Sent keys 'Piyush' to element located by ('id', 'password-login')
+2024-07-16 16:46:18,667 - INFO - Clicked on element located by ('id', 'login-submit-password')
+2024-07-16 16:46:18,667 - INFO - Clicked on element located by ('id', 'login-submit-password')
+2024-07-16 16:46:18,759 - INFO - Clicked on element located by ('id', 'login-submit')
+2024-07-16 16:46:18,759 - INFO - Clicked on element located by ('id', 'login-submit')
+2024-07-16 16:46:18,954 - INFO - Sent keys 'Piyush@123' to element located by ('id', 'password-login')
+2024-07-16 16:46:18,954 - INFO - Sent keys 'Piyush@123' to element located by ('id', 'password-login')
+2024-07-16 16:46:19,635 - INFO - Retrieved text 'Invalid Login Credentials' from element located by ('css selector', "[class='form-error']")
+2024-07-16 16:46:19,635 - INFO - Retrieved text 'Invalid Login Credentials' from element located by ('css selector', "[class='form-error']")
+2024-07-16 16:46:19,636 - ERROR - Assertion failed: Invalid Login Credentials == Invalid captcha response. Please try again.
+2024-07-16 16:46:19,636 - ERROR - Assertion failed: Invalid Login Credentials == Invalid captcha response. Please try again.
+2024-07-16 16:46:19,736 - INFO - Clicked on element located by ('id', 'login-submit-password')
+2024-07-16 16:46:19,736 - INFO - Clicked on element located by ('id', 'login-submit-password')
+2024-07-16 16:46:20,210 - INFO - Clicked on element located by ('id', 'login-submit-password')
+2024-07-16 16:46:20,210 - INFO - Clicked on element located by ('id', 'login-submit-password')
+2024-07-16 16:46:20,529 - INFO - Retrieved text 'Invalid Login Credentials' from element located by ('css selector', "[class='form-error']")
+2024-07-16 16:46:20,529 - INFO - Retrieved text 'Invalid Login Credentials' from element located by ('css selector', "[class='form-error']")
+2024-07-16 16:46:20,530 - ERROR - Assertion failed: Invalid Login Credentials == Invalid captcha response. Please try again.
+2024-07-16 16:46:20,530 - ERROR - Assertion failed: Invalid Login Credentials == Invalid captcha response. Please try again.
+2024-07-16 16:46:20,564 - INFO - Clicked on element located by ('id', 'login-submit-password')
+2024-07-16 16:46:20,564 - INFO - Clicked on element located by ('id', 'login-submit-password')
+2024-07-16 16:46:20,735 - INFO - Clicked on element located by ('id', 'login-submit-password')
+2024-07-16 16:46:20,735 - INFO - Clicked on element located by ('id', 'login-submit-password')
+2024-07-16 16:46:22,578 - INFO - Retriveing the page Box | Login
+2024-07-16 16:46:22,578 - INFO - Retriveing the page Box | Login
+2024-07-16 16:46:22,584 - ERROR - Assertion failed: Box | Login == All Files | Powered by Box
+2024-07-16 16:46:22,584 - ERROR - Assertion failed: Box | Login == All Files | Powered by Box
+2024-07-16 16:46:22,825 - INFO - Retrieved text 'Invalid captcha response. Please try again.' from element located by ('css selector', "[class='form-error']")
+2024-07-16 16:46:22,825 - INFO - Retrieved text 'Invalid captcha response. Please try again.' from element located by ('css selector', "[class='form-error']")
+2024-07-16 16:46:22,826 - INFO - Assertion passed: Invalid captcha response. Please try again. == Invalid captcha response. Please try again.
+2024-07-16 16:46:22,826 - INFO - Assertion passed: Invalid captcha response. Please try again. == Invalid captcha response. Please try again.
+2024-07-16 16:46:31,198 - ERROR - Failed to click on element located by ('css selector', "[class='UnifiedNewDropdownMenuToggleButton-label']"): Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-16 16:46:31,198 - ERROR - Failed to click on element located by ('css selector', "[class='UnifiedNewDropdownMenuToggleButton-label']"): Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-16 16:46:32,289 - ERROR - Failed to click on element located by ('css selector', "[class='UnifiedNewDropdownMenuToggleButton-label']"): Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-16 16:46:32,289 - ERROR - Failed to click on element located by ('css selector', "[class='UnifiedNewDropdownMenuToggleButton-label']"): Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-16 16:46:32,730 - ERROR - Failed to click on element located by ('css selector', "[class='UnifiedNewDropdownMenuToggleButton-label']"): Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-16 16:46:32,730 - ERROR - Failed to click on element located by ('css selector', "[class='UnifiedNewDropdownMenuToggleButton-label']"): Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-16 16:46:36,274 - INFO - ****test_05_verify_user_can_do_logout****
+2024-07-16 16:46:36,274 - INFO - ****test_05_verify_user_can_do_logout****
+2024-07-16 16:46:36,305 - INFO - Sent keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email')
+2024-07-16 16:46:36,305 - INFO - Sent keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email')
+2024-07-16 16:46:36,881 - INFO - Clicked on element located by ('id', 'login-submit')
+2024-07-16 16:46:36,881 - INFO - Clicked on element located by ('id', 'login-submit')
+2024-07-16 16:46:36,902 - INFO - Sent keys 'Piyush@123' to element located by ('id', 'password-login')
+2024-07-16 16:46:36,902 - INFO - Sent keys 'Piyush@123' to element located by ('id', 'password-login')
+2024-07-16 16:46:37,704 - INFO - Clicked on element located by ('id', 'login-submit-password')
+2024-07-16 16:46:37,704 - INFO - Clicked on element located by ('id', 'login-submit-password')
+2024-07-16 16:46:39,709 - INFO - Retriveing the page Box | Login
+2024-07-16 16:46:39,709 - INFO - Retriveing the page Box | Login
+2024-07-16 16:46:39,709 - ERROR - Assertion failed: Box | Login == All Files | Powered by Box
+2024-07-16 16:46:39,709 - ERROR - Assertion failed: Box | Login == All Files | Powered by Box
+2024-07-16 16:46:50,227 - ERROR - Failed to click on element located by ('css selector', "[class='avatar-initials ']"): Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-16 16:46:50,227 - ERROR - Failed to click on element located by ('css selector', "[class='avatar-initials ']"): Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+

@@ -116,3 +116,29 @@ Stacktrace:
 20  libsystem_pthread.dylib             0x00007ff8172f04f4 _pthread_start + 125
 21  libsystem_pthread.dylib             0x00007ff8172ec00f thread_start + 15
 
+2024-07-16 16:43:19,302 - INFO - ****test_05_verify_user_can_do_logout****
+2024-07-16 16:43:19,302 - INFO - ****test_05_verify_user_can_do_logout****
+2024-07-16 16:43:19,378 - INFO - Sent keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email')
+2024-07-16 16:43:19,378 - INFO - Sent keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email')
+2024-07-16 16:43:19,874 - INFO - Clicked on element located by ('id', 'login-submit')
+2024-07-16 16:43:19,874 - INFO - Clicked on element located by ('id', 'login-submit')
+2024-07-16 16:43:19,909 - INFO - Sent keys 'Piyush@123' to element located by ('id', 'password-login')
+2024-07-16 16:43:19,909 - INFO - Sent keys 'Piyush@123' to element located by ('id', 'password-login')
+2024-07-16 16:43:21,739 - INFO - Clicked on element located by ('id', 'login-submit-password')
+2024-07-16 16:43:21,739 - INFO - Clicked on element located by ('id', 'login-submit-password')
+2024-07-16 16:43:23,745 - INFO - Retriveing the page All Files | Powered by Box
+2024-07-16 16:43:23,745 - INFO - Retriveing the page All Files | Powered by Box
+2024-07-16 16:43:23,747 - INFO - Retriveing the page All Files | Powered by Box
+2024-07-16 16:43:23,747 - INFO - Retriveing the page All Files | Powered by Box
+2024-07-16 16:43:23,748 - INFO - Assertion passed: All Files | Powered by Box == All Files | Powered by Box
+2024-07-16 16:43:23,748 - INFO - Assertion passed: All Files | Powered by Box == All Files | Powered by Box
+2024-07-16 16:43:23,791 - INFO - Clicked on element located by ('css selector', "[class='avatar-initials ']")
+2024-07-16 16:43:23,791 - INFO - Clicked on element located by ('css selector', "[class='avatar-initials ']")
+2024-07-16 16:43:25,418 - INFO - Clicked on element located by ('css selector', '[data-testid="account-menu-logout"]')
+2024-07-16 16:43:25,418 - INFO - Clicked on element located by ('css selector', '[data-testid="account-menu-logout"]')
+2024-07-16 16:43:25,423 - INFO - Retriveing the page Box | Login
+2024-07-16 16:43:25,423 - INFO - Retriveing the page Box | Login
+2024-07-16 16:43:25,426 - INFO - Retriveing the page Box | Login
+2024-07-16 16:43:25,426 - INFO - Retriveing the page Box | Login
+2024-07-16 16:43:25,426 - INFO - Assertion passed: Box | Login == Box | Login
+2024-07-16 16:43:25,426 - INFO - Assertion passed: Box | Login == Box | Login
