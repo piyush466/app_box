@@ -50,3 +50,69 @@ Stacktrace:
 20  libsystem_pthread.dylib             0x00007ff8172f04f4 _pthread_start + 125
 21  libsystem_pthread.dylib             0x00007ff8172ec00f thread_start + 15
 
+2024-07-16 16:07:09,794 - INFO - ****test_05_verify_user_can_do_logout****
+2024-07-16 16:07:09,794 - INFO - ****test_05_verify_user_can_do_logout****
+2024-07-16 16:07:09,890 - INFO - Sent keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email')
+2024-07-16 16:07:09,890 - INFO - Sent keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email')
+2024-07-16 16:07:10,556 - INFO - Clicked on element located by ('id', 'login-submit')
+2024-07-16 16:07:10,556 - INFO - Clicked on element located by ('id', 'login-submit')
+2024-07-16 16:07:10,598 - INFO - Sent keys 'Piyush@123' to element located by ('id', 'password-login')
+2024-07-16 16:07:10,598 - INFO - Sent keys 'Piyush@123' to element located by ('id', 'password-login')
+2024-07-16 16:07:11,282 - INFO - Clicked on element located by ('id', 'login-submit-password')
+2024-07-16 16:07:11,282 - INFO - Clicked on element located by ('id', 'login-submit-password')
+2024-07-16 16:07:13,292 - INFO - Retriveing the page Box | Login
+2024-07-16 16:07:13,292 - INFO - Retriveing the page Box | Login
+2024-07-16 16:07:13,297 - INFO - Retriveing the page Box | Login
+2024-07-16 16:07:13,297 - INFO - Retriveing the page Box | Login
+2024-07-16 16:07:13,297 - ERROR - Assertion failed: Box | Login == All Files | Powered by Box
+2024-07-16 16:07:13,297 - ERROR - Assertion failed: Box | Login == All Files | Powered by Box
+2024-07-16 16:07:23,850 - ERROR - Failed to click on element located by ('css selector', "[class='avatar-initials ']"): Message: 
+Stacktrace:
+0   chromedriver                        0x000000010b7590e8 chromedriver + 5169384
+1   chromedriver                        0x000000010b750fba chromedriver + 5136314
+2   chromedriver                        0x000000010b2cd36c chromedriver + 402284
+3   chromedriver                        0x000000010b31a740 chromedriver + 718656
+4   chromedriver                        0x000000010b31aa01 chromedriver + 719361
+5   chromedriver                        0x000000010b35fbc4 chromedriver + 1002436
+6   chromedriver                        0x000000010b33dadd chromedriver + 862941
+7   chromedriver                        0x000000010b35cf57 chromedriver + 991063
+8   chromedriver                        0x000000010b33d853 chromedriver + 862291
+9   chromedriver                        0x000000010b30d5c6 chromedriver + 665030
+10  chromedriver                        0x000000010b30de4e chromedriver + 667214
+11  chromedriver                        0x000000010b71bd00 chromedriver + 4918528
+12  chromedriver                        0x000000010b720cfd chromedriver + 4939005
+13  chromedriver                        0x000000010b7213d5 chromedriver + 4940757
+14  chromedriver                        0x000000010b6fcde4 chromedriver + 4791780
+15  chromedriver                        0x000000010b7216c9 chromedriver + 4941513
+16  chromedriver                        0x000000010b6ee5b4 chromedriver + 4732340
+17  chromedriver                        0x000000010b741898 chromedriver + 5073048
+18  chromedriver                        0x000000010b741a57 chromedriver + 5073495
+19  chromedriver                        0x000000010b750b6e chromedriver + 5135214
+20  libsystem_pthread.dylib             0x00007ff8172f04f4 _pthread_start + 125
+21  libsystem_pthread.dylib             0x00007ff8172ec00f thread_start + 15
+
+2024-07-16 16:07:23,850 - ERROR - Failed to click on element located by ('css selector', "[class='avatar-initials ']"): Message: 
+Stacktrace:
+0   chromedriver                        0x000000010b7590e8 chromedriver + 5169384
+1   chromedriver                        0x000000010b750fba chromedriver + 5136314
+2   chromedriver                        0x000000010b2cd36c chromedriver + 402284
+3   chromedriver                        0x000000010b31a740 chromedriver + 718656
+4   chromedriver                        0x000000010b31aa01 chromedriver + 719361
+5   chromedriver                        0x000000010b35fbc4 chromedriver + 1002436
+6   chromedriver                        0x000000010b33dadd chromedriver + 862941
+7   chromedriver                        0x000000010b35cf57 chromedriver + 991063
+8   chromedriver                        0x000000010b33d853 chromedriver + 862291
+9   chromedriver                        0x000000010b30d5c6 chromedriver + 665030
+10  chromedriver                        0x000000010b30de4e chromedriver + 667214
+11  chromedriver                        0x000000010b71bd00 chromedriver + 4918528
+12  chromedriver                        0x000000010b720cfd chromedriver + 4939005
+13  chromedriver                        0x000000010b7213d5 chromedriver + 4940757
+14  chromedriver                        0x000000010b6fcde4 chromedriver + 4791780
+15  chromedriver                        0x000000010b7216c9 chromedriver + 4941513
+16  chromedriver                        0x000000010b6ee5b4 chromedriver + 4732340
+17  chromedriver                        0x000000010b741898 chromedriver + 5073048
+18  chromedriver                        0x000000010b741a57 chromedriver + 5073495
+19  chromedriver                        0x000000010b750b6e chromedriver + 5135214
+20  libsystem_pthread.dylib             0x00007ff8172f04f4 _pthread_start + 125
+21  libsystem_pthread.dylib             0x00007ff8172ec00f thread_start + 15
+

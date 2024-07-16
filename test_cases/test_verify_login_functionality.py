@@ -1,10 +1,10 @@
 import pytest
 
-
+from Utilities.generate_log import LogGen
 from test_cases.baseclass import BaseClass
 
 class Test_Login(BaseClass):
-
+    logs = LogGen.loggenerate()
     @pytest.mark.smoke
     def test_01_verify_login_with_valid_creds(self):
         self.login.do_login("piyush.alphabin@gmail.com", "Piyush@123")
@@ -26,6 +26,7 @@ class Test_Login(BaseClass):
         self.base.assertion(self.base.get_text(self.login.invalid_creds), "Invalid captcha response. Please try again.")
 
     def test_05_verify_user_can_do_logout(self):
+        self.logs.info("****test_05_verify_user_can_do_logout****")
         self.login.do_login("piyush.alphabin@gmail.com", "Piyush@123")
         print("After login: ",self.base.get_title())
         self.base.assertion(self.base.get_title(), "All Files | Powered by Box")
