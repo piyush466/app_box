@@ -10,7 +10,7 @@ from pages.login_page import Login
 def setup(request):
     option = Options()
     option.add_argument("--incognito")
-    option.add_argument("--headless")
+    # option.add_argument("--headless")
     driver = webdriver.Chrome(options=option)
     driver.get("https://account.box.com/login")
     driver.maximize_window()

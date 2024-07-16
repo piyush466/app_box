@@ -29,3 +29,6 @@ class Base:
         element = self.wait.until(EC.visibility_of_element_located(by_locator))
         select = Select(element)
         return select.select_by_visible_text(visible_text)
+
+    def assertion(self, actual_value, expected_value):
+        assert actual_value == expected_value
