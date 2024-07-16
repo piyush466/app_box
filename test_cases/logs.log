@@ -1,0 +1,52 @@
+2024-07-16 16:00:45,465 - INFO - Sent keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email')
+2024-07-16 16:00:48,519 - INFO - Clicked on element located by ('id', 'login-submit')
+2024-07-16 16:00:48,539 - INFO - Sent keys 'Piyush' to element located by ('id', 'password-login')
+2024-07-16 16:00:49,325 - INFO - Clicked on element located by ('id', 'login-submit-password')
+2024-07-16 16:00:51,343 - INFO - Retrieved text 'Invalid captcha response. Please try again.' from element located by ('css selector', "[class='form-error']")
+2024-07-16 16:00:51,344 - INFO - Assertion passed: Invalid captcha response. Please try again. == Invalid captcha response. Please try again.
+2024-07-16 16:01:51,956 - INFO - Sent keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email')
+2024-07-16 16:01:52,551 - INFO - Clicked on element located by ('id', 'login-submit')
+2024-07-16 16:01:52,570 - INFO - Sent keys 'Piyush@123' to element located by ('id', 'password-login')
+2024-07-16 16:01:53,426 - INFO - Clicked on element located by ('id', 'login-submit-password')
+2024-07-16 16:01:55,432 - INFO - Retriveing the page Box | Login
+2024-07-16 16:01:55,434 - INFO - Retriveing the page Box | Login
+2024-07-16 16:01:55,434 - ERROR - Assertion failed: Box | Login == All Files | Powered by Box
+2024-07-16 16:02:05,941 - ERROR - Failed to click on element located by ('css selector', "[class='avatar-initials ']"): Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-07-16 16:02:27,382 - INFO - Sent keys 'piyush.alphabin@gmail.com' to element located by ('id', 'login-email')
+2024-07-16 16:02:28,062 - INFO - Clicked on element located by ('id', 'login-submit')
+2024-07-16 16:02:28,103 - INFO - Sent keys 'Piyush@123' to element located by ('id', 'password-login')
+2024-07-16 16:02:28,908 - INFO - Clicked on element located by ('id', 'login-submit-password')
+2024-07-16 16:02:30,916 - INFO - Retriveing the page Box | Login
+2024-07-16 16:02:30,919 - INFO - Retriveing the page Box | Login
+2024-07-16 16:02:30,919 - ERROR - Assertion failed: Box | Login == All Files | Powered by Box
+2024-07-16 16:02:41,427 - ERROR - Failed to click on element located by ('css selector', "[class='avatar-initials ']"): Message: 
+Stacktrace:
+0   chromedriver                        0x000000010b96d0e8 chromedriver + 5169384
+1   chromedriver                        0x000000010b964fba chromedriver + 5136314
+2   chromedriver                        0x000000010b4e136c chromedriver + 402284
+3   chromedriver                        0x000000010b52e740 chromedriver + 718656
+4   chromedriver                        0x000000010b52ea01 chromedriver + 719361
+5   chromedriver                        0x000000010b573bc4 chromedriver + 1002436
+6   chromedriver                        0x000000010b551add chromedriver + 862941
+7   chromedriver                        0x000000010b570f57 chromedriver + 991063
+8   chromedriver                        0x000000010b551853 chromedriver + 862291
+9   chromedriver                        0x000000010b5215c6 chromedriver + 665030
+10  chromedriver                        0x000000010b521e4e chromedriver + 667214
+11  chromedriver                        0x000000010b92fd00 chromedriver + 4918528
+12  chromedriver                        0x000000010b934cfd chromedriver + 4939005
+13  chromedriver                        0x000000010b9353d5 chromedriver + 4940757
+14  chromedriver                        0x000000010b910de4 chromedriver + 4791780
+15  chromedriver                        0x000000010b9356c9 chromedriver + 4941513
+16  chromedriver                        0x000000010b9025b4 chromedriver + 4732340
+17  chromedriver                        0x000000010b955898 chromedriver + 5073048
+18  chromedriver                        0x000000010b955a57 chromedriver + 5073495
+19  chromedriver                        0x000000010b964b6e chromedriver + 5135214
+20  libsystem_pthread.dylib             0x00007ff8172f04f4 _pthread_start + 125
+21  libsystem_pthread.dylib             0x00007ff8172ec00f thread_start + 15
+

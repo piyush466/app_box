@@ -19,15 +19,15 @@ def setup(request):
     option.add_argument("--incognito")
     option.add_argument("--headless")
     if browser == 'chrome':
-        driver = webdriver.Chrome(options=option)
+        driver = webdriver.Chrome()
     elif browser == 'firefox':
         option = Options()
         option.add_argument("--headless")
-        driver = webdriver.Firefox(options=option)
+        driver = webdriver.Firefox()
     elif browser == "safari":
         driver = webdriver.Safari()
     else:
-        driver = webdriver.Chrome(options=option)
+        driver = webdriver.Chrome()
 
     driver.get("https://account.box.com/login")
     driver.maximize_window()
